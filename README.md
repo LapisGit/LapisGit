@@ -1,7 +1,7 @@
-![LiamM's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamMGit&show_icons=true&theme=radical)
+![LiamM's GitHub stats](https://github-readme-stats.vercel.app/api?username=LapisGit&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@liammyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@liammyt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@lapiscreates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@lapiscreates" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
