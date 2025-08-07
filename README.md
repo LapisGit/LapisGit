@@ -3,8 +3,8 @@
 I'm a high school student who does game development and modding. My main tools are Godot and GDScript.
 
 ## Projects I'm proud of
-- **OpenWeather** – A in-development open-source weather app made in Godot 4.4.1 [Learn more](https://lapis.hackclub.app/openweather)
-- **MacroPad** – A open-source HackPad for Hack Club [See details](https://lapis.hackclub.app/macropad)
+- **OpenWeather** – A in-development open-source weather app made in Godot 4.4.1 [Learn more](https://lapis.codes/openweather)
+- **GorillaTrials** – A mod for Gorilla Tag that adds parkour trials, achievements, and more all with a global leaderboard. [See details](https://github.com/LapisGit/GorillaTrials)
 
 ## What I do
 I spend most of my free time building and modding games, especially in Godot. I'm particularly interested in VR and XR.
