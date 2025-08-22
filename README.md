@@ -14,9 +14,8 @@ I spend most of my free time building and modding games, especially in Godot. I'
 I'm trans (MtF), pansexual, and polyamorous. I am especially interested in anything related to VR/XR, or just gamedev in general!
 
 ## Find me online
-- Website: [lapis.hackclub.app](https://lapis.hackclub.app)
+- Website: [lapis.codes](https://lapis.codes)
 - YouTube: [@lapiscreates](https://youtube.com/@lapiscreates)
-- Email: [lapis@64will64.com](mailto:lapis@64will64.com)
 
 # Stats
 ![Lapis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LapisGit&show_icons=true&theme=radical)
