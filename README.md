@@ -6,12 +6,13 @@ I'm a high school student who does game development and modding. My main tools a
 - [**OpenWeather**](https://lapis.codes/openweather) – A in-development open-source weather app made in Godot 4.4.1
 - [**GorillaTrials**](https://github.com/LapisGit/GorillaTrials) – A mod for Gorilla Tag that adds parkour trials, achievements, and more all with a global leaderboard.
 - [**LapisOverlay**](https://github.com/LapisGit/LapisOverlay) / [**LapisOverlayMediaManager**](https://github.com/LapisGit/LapisOverlayMediaManager) - A work-in-progress multi-purpose open-source overlay for SteamVR and a WIndows Media Manager media grabber for it.
+- [**iPawd**](https://github.com/xenon-pl/iPawd) - A physical modern music player similar to the iPod.
 
 ## What I do
 I spend most of my free time building and modding games, especially in Godot. I'm particularly interested in VR and XR.
 
 ## About me
-I'm trans (MtF), pansexual, and polyamorous. I am especially interested in anything related to VR/XR, or just gamedev in general!
+I'm trans (MtF), pansexual, and polyamorous.
 
 ## Find me online
 - Website: [lapis.codes](https://lapis.codes)
