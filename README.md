@@ -1,6 +1,6 @@
 # Hi, I'm Lapis!
 
-I'm a high school student who does game development and modding. My main tools are Godot and GDScript.
+I'm a high school student who does game development and modding. My main languages are GDScript (Godot), and C#.
 
 ## Projects I'm proud of
 - [**OpenWeather**](https://lapis.codes/openweather) – A in-development open-source weather app made in Godot 4.4.1
