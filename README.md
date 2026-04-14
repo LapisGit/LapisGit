@@ -5,7 +5,7 @@ I'm a high school student who does game development and modding. My main languag
 ## Support
 Currently the only way to support me is through my Monero wallet, I'll most likely open up other wallets soon though.
 
-Monero: `87oKZaSpYfUedaEWwgRwdD6HtiaDnScmcQRARUviHFfFPDZWnG8s4hAgLX2WoLHU4sTQM7yHKycn2dwdbCG6jEM3QR2PKH3` (no this isnt mr beast omega crypto scam)
+Monero: ``87oKZaSpYfUedaEWwgRwdD6HtiaDnScmcQRARUviHFfFPDZWnG8s4hAgLX2WoLHU4sTQM7yHKycn2dwdbCG6jEM3QR2PKH3`` (no this isnt mr beast omega crypto scam)
 
 ## Projects I'm proud of
 - [**OpenWeather**](https://lapis.codes/openweather) – A in-development open-source weather app made in Godot 4.4.1
